@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dua</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="r">السلام عليكم</string>
+    <string name="dua_of_prophet_adam">Dua of Prophet Adam عليه السلام</string>
+</resources>

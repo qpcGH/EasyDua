@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/adam"
+            android:title="@string/dua_of_prophet_adam"/>
+        <item
+            android:id="@+id/Yunus"
+
+            android:title="Dua of Prophet Yunus عليه السلام"/>
+        <item
+            android:id="@+id/Ayub"
+            android:title="Dua of Prophet Ayub عليه السلام"
+            />
+        <item
+            android:id="@+id/Ibrahim"
+            android:title="Dua of Prophet Ibrahim عليه السلام"
+            />
+        <item
+            android:id="@+id/Musa"
+            android:title="Dua of Prophet Musa عليه السلام"
+            />
+        <item
+
+            android:id="@+id/Yusuf"
+            android:title="Dua of Prophet Yusuf عليه السلام"/>
+        <item
+
+            android:id="@+id/b"
+            android:title="Dua of Prophet  عليه السلام"/>
+        <item
+
+            android:id="@+id/l"
+            android:title="Dua of Prophet  عليه السلام"/>
+        <item
+
+            android:id="@+id/a"
+            android:title="Dua of Prophet Yusuf عليه السلام"/>
+        <item
+
+        android:title="Share"/> <item
+
+        android:title="Share"/> <item
+
+        android:title="Share"/> <item
+
+        android:title="Share"/> <item
+
+        android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/> <item
+
+        android:title="Share"/>
+        <item
+
+            android:title="Share"/> <item
+
+        android:title="Share"/> <item
+
+        android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/> <item
+
+        android:title="Share"/>
+        <item
+
+            android:title="Share"/> <item
+
+        android:title="Share"/> <item
+
+        android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/> <item
+
+        android:title="Share"/>
+        <item
+
+            android:title="Share"/> <item
+
+        android:title="Share"/> <item
+
+        android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/>
+        <item
+
+            android:title="Share"/> <item
+
+        android:title="Share"/>
+        <item
+
+            android:title="Share"/> <item
+
+        android:title="Share"/> <item
+
+        android:title="Share"/>
+
+
+
+
+
+
+
+
+
+
+
+
+    </group>
+    <!--  android:icon="@drawable/nav_about" -->
+</menu>
